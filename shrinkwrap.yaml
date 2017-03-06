@@ -1,0 +1,42 @@
+dependencies:
+  chalk@^1.1.3: registry.npmjs.org/chalk/1.1.3
+packages:
+  registry.npmjs.org/ansi-regex/2.1.1:
+    resolution:
+      shasum: c3b33ab5ee360d86e0e628f0468ae7ef27d654df
+      tarball: 'https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz'
+  registry.npmjs.org/ansi-styles/2.2.1:
+    resolution:
+      shasum: b432dd3358b634cf75e1e4664368240533c1ddbe
+      tarball: 'https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz'
+  registry.npmjs.org/chalk/1.1.3:
+    dependencies:
+      ansi-styles: registry.npmjs.org/ansi-styles/2.2.1
+      escape-string-regexp: registry.npmjs.org/escape-string-regexp/1.0.5
+      has-ansi: registry.npmjs.org/has-ansi/2.0.0
+      strip-ansi: registry.npmjs.org/strip-ansi/3.0.1
+      supports-color: registry.npmjs.org/supports-color/2.0.0
+    resolution:
+      shasum: a8115c55e4a702fe4d150abd3872822a7e09fc98
+      tarball: 'https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz'
+  registry.npmjs.org/escape-string-regexp/1.0.5:
+    resolution:
+      shasum: 1b61c0562190a8dff6ae3bb2cf0200ca130b86d4
+      tarball: 'https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz'
+  registry.npmjs.org/has-ansi/2.0.0:
+    dependencies:
+      ansi-regex: registry.npmjs.org/ansi-regex/2.1.1
+    resolution:
+      shasum: 34f5049ce1ecdf2b0649af3ef24e45ed35416d91
+      tarball: 'https://registry.npmjs.org/has-ansi/-/has-ansi-2.0.0.tgz'
+  registry.npmjs.org/strip-ansi/3.0.1:
+    dependencies:
+      ansi-regex: registry.npmjs.org/ansi-regex/2.1.1
+    resolution:
+      shasum: 6a385fb8853d952d5ff05d0e8aaf94278dc63dcf
+      tarball: 'https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz'
+  registry.npmjs.org/supports-color/2.0.0:
+    resolution:
+      shasum: 535d045ce6b6363fa40117084629995e9df324c7
+      tarball: 'https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz'
+version: 1
