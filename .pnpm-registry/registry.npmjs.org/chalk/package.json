@@ -1,6 +1,6 @@
 {
 	"_id": "chalk",
-	"_rev": "687-91f64be77c09ebac1fdb0ad65b1b0c58",
+	"_rev": "702-a02fca5da9660ac9d05b2a9d54598768",
 	"name": "chalk",
 	"description": "Terminal string styling done right. Much color.",
 	"dist-tags": {
@@ -1114,7 +1114,7 @@
 		}
 	],
 	"time": {
-		"modified": "2017-03-05T14:02:16.314Z",
+		"modified": "2017-03-17T06:42:51.181Z",
 		"created": "2013-08-03T00:21:56.318Z",
 		"0.1.0": "2013-08-03T00:21:59.499Z",
 		"0.1.1": "2013-08-03T01:38:53.881Z",
@@ -1698,7 +1698,20 @@
 		"shaomingquan": true,
 		"jonathanbergson": true,
 		"rocket0191": true,
-		"danielknaust": true
+		"danielknaust": true,
+		"shaunieb": true,
+		"junos": true,
+		"xlaoyu": true,
+		"alimaster": true,
+		"chinjon": true,
+		"tazjel": true,
+		"ehrig": true,
+		"icodeforcookies": true,
+		"sonhuytran": true,
+		"angrykoala": true,
+		"anpdx": true,
+		"andygreenegrass": true,
+		"lacodda": true
 	},
 	"homepage": "https://github.com/chalk/chalk#readme",
 	"keywords": [
@@ -1730,6 +1743,6 @@
 	"license": "MIT",
 	"readmeFilename": "readme.md",
 	"_attachments": {},
-	"_etag": "W/\"58bc1a68-8615\"",
-	"_lastModified": "Sun, 05 Mar 2017 14:02:16 GMT"
+	"_etag": "W/\"58cb856b-86e9\"",
+	"_lastModified": "Fri, 17 Mar 2017 06:42:51 GMT"
 }
