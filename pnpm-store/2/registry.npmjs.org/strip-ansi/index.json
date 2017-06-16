@@ -1,0 +1,236 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "strip-ansi",
+			"version": "0.1.0",
+			"devDependencies": {
+				"mocha": "~1.x"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1bc16b35788d9bdaaf0b9ef0d9e35b0b59403f8e",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "strip-ansi",
+			"version": "0.1.1",
+			"devDependencies": {
+				"mocha": "~1.x"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "39e8a98d044d150660abe4a6808acf70bb7bc991",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "strip-ansi",
+			"version": "0.2.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e987d2c9128aadd85b9b9bfda7d09d9751e5e53a",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "strip-ansi",
+			"version": "0.2.1",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "09218505ccf1083a41460150571355efabaa126e",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "strip-ansi",
+			"version": "0.2.2",
+			"dependencies": {
+				"ansi-regex": "^0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "854d290c981525fc8c397a910b025ae2d54ffc08",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "strip-ansi",
+			"version": "0.3.0",
+			"dependencies": {
+				"ansi-regex": "^0.2.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "25f48ea22ca79187f3174a4db8759347bb126220",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "strip-ansi",
+			"version": "1.0.0",
+			"dependencies": {
+				"ansi-regex": "^0.2.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6c021321d6ece161a3c608fbab268c7328901c73",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "strip-ansi",
+			"version": "2.0.0",
+			"dependencies": {
+				"ansi-regex": "^1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fa8d69432e97674746f55f51d076ae78b18df13f",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-2.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "strip-ansi",
+			"version": "2.0.1",
+			"dependencies": {
+				"ansi-regex": "^1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bin": {
+				"strip-ansi": "cli.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df62c1aa94ed2f114e1d0f21fd1d50482b79a60e",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-2.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "strip-ansi",
+			"version": "3.0.0",
+			"dependencies": {
+				"ansi-regex": "^2.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7510b665567ca914ccb5d7e072763ac968be3724",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "strip-ansi",
+			"version": "3.0.1",
+			"dependencies": {
+				"ansi-regex": "^2.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6a385fb8853d952d5ff05d0e8aaf94278dc63dcf",
+				"tarball": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "strip-ansi",
+	"dist-tags": {
+		"latest": "3.0.1"
+	},
+	"modified": "2017-04-20T11:26:44.919Z",
+	"_etag": "W/\"58f89af4-ec7\"",
+	"_lastModified": "Thu, 20 Apr 2017 11:26:44 GMT"
+}
