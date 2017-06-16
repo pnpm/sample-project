@@ -4,5 +4,5 @@
 
 Notes:
 
-* the [.pnpm-store](.pnpm-store) and [.pnpm-registry](.pnpm-registry) folders are installed in the home directory by default.
-To have them in the example, the approppriate config values are rewritten in [.npmrc](.npmrc).
+* the [.pnpm-store](.pnpm-store) folder is installed in the home directory by default.
+To have it in the example, the approppriate config value is rewritten in [.npmrc](.npmrc).
